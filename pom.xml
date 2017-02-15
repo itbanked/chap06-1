@@ -36,7 +36,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-			<!-- JSP pre-compiler -->
+		<!-- JSP pre-compiler -->
 		<dependency>
 		    <groupId>org.apache.tomcat.embed</groupId>
 		    <artifactId>tomcat-embed-jasper</artifactId>
@@ -54,6 +54,8 @@
 	    <artifactId>bootstrap</artifactId>
 	    <version>3.3.7-1</version>
 		</dependency>
+		
+		
 	</dependencies>
 
 	<build>
